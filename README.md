@@ -4,14 +4,14 @@ The goal of this exercise is to learn redux-saga.
 
 ## Requirements
 You need to be comfortable writing JavaScript (ES6: Module system, class, destructuring assignment).
-You need to have `node`and `npm`installed in your computer.
+You need to have `node`and `yarn`installed in your computer.
 
 ## How to install
 
 - `git clone git@github.com:leanjscom/redux-saga-exercise.git`
 - `cd redux-saga-exercise`
-- `npm i`
-- `npm start`
+- `yarn install`
+- `yarn start`
 - `Open the Browser with the url http://localhost:3000` and you will be ready to start
 
 
