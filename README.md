@@ -12,7 +12,7 @@ You need to have `node`and `yarn`installed in your computer.
 - `cd redux-saga-exercise`
 - `yarn install`
 - `yarn start`
-- `Open the Browser with the url http://localhost:3000` and you will be ready to start
+- `Open the browser with the url http://localhost:3000` and you will be ready to start
 
 
 ## Exercise
