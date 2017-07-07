@@ -7,7 +7,7 @@ const Header = () => (
         <div className="col-lg-12">
           <img className="img-responsive logo-academy" role="presentation" src="/public/img/logo.png" />
           <div className="intro-text">
-            <span className="name">Beer Game</span>
+            <span className="name">Tinder Beer</span>
             <hr className="star-light" />
           </div>
         </div>

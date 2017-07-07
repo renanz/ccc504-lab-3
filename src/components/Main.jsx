@@ -28,7 +28,7 @@ class Main extends React.Component {
         <nav className="navbar navbar-default navbar-fixed-top navbar-custom">
           <div className="container">
             <div className="navbar-header">
-              <a className="navbar-brand" href="https://reactjs.academy" target="_blank" rel="noopener noreferrer">ReactJS Academy</a>
+              <a className="navbar-brand" href="https://leanjs.com" target="_blank" rel="noopener noreferrer">LeanJS</a>
             </div>
             <ul className="nav navbar-nav pull-right">
               <li>
@@ -60,7 +60,7 @@ class Main extends React.Component {
                     <span>London, EC2Y 5EJ</span>
                     <br />
                     <span className="fa fa-map-marker" />
-                    <a target="_blank" href="https://reactjs.academy/react-redux-training" rel="noopener noreferrer"> Other Locations </a>
+                    <a target="_blank" href="https://leanjs.com/training/react-redux-graphql-london" rel="noopener noreferrer"> Other Locations </a>
                   </p>
                 </div>
                 <div className="footer-col col-md-4">
@@ -70,19 +70,19 @@ class Main extends React.Component {
                       <a target="_blank" href="https://github.com/leanjscom" className="btn-social btn-outline" rel="noopener noreferrer"><i className="fa fa-fw fa-github" /></a>
                     </li>
                     <li>
-                      <a target="_blank" href="https://twitter.com/reactjsacademy" className="btn-social btn-outline" rel="noopener noreferrer"><i className="fa fa-fw fa-twitter" /></a>
+                      <a target="_blank" href="https://twitter.com/leanjscom" className="btn-social btn-outline" rel="noopener noreferrer"><i className="fa fa-fw fa-twitter" /></a>
                     </li>
                     <li>
-                      <a target="_blank" href="https://www.instagram.com/reactjsacademy/" className="btn-social btn-outline" rel="noopener noreferrer"><i className="fa fa-fw fa-instagram" /></a>
+                      <a target="_blank" href="https://www.instagram.com/leanjscom/" className="btn-social btn-outline" rel="noopener noreferrer"><i className="fa fa-fw fa-instagram" /></a>
                     </li>
                   </ul>
                 </div>
                 <div className="footer-col col-md-4">
-                  <h3>About ReactJS Academy</h3>
+                  <h3>LeanJS</h3>
                   <p>
-                    <a href="https://reactjs.academy/" target="_blank" rel="noopener noreferrer">ReactJS Academy </a>
+                    <a href="https://leanjs.com/" target="_blank" rel="noopener noreferrer">LeanJS </a>
                     <span>
-                      is devoted to teach ReactJS across Europe, providing free workshops and private trainings.
+                       is a boutique of excellence focused on Lean, JavaScript, UX, Agile, and <strong>people</strong>.
                     </span>
                   </p>
                 </div>
@@ -93,7 +93,7 @@ class Main extends React.Component {
             <div className="container">
               <div className="row">
                 <div className="col-lg-12">
-                  <span>Copyright &copy;</span> <a href="https://reactjs.academy/" target="_blank" rel="noopener noreferrer">ReactJS Academy</a>
+                  <span>Copyright &copy;</span> <a href="https://leanjs.com/" target="_blank" rel="noopener noreferrer">LeanJS</a>
                 </div>
               </div>
             </div>
